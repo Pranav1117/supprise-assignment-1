@@ -1,0 +1,115 @@
+.whole{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    
+}
+.prepbytes{
+    width: 200px;
+    align-self: center;
+}
+.google{
+    align-content: space-around;
+    
+    
+    width: 270px;
+    align-self: center;
+    border: 2px solid lightgray;
+    
+    border-radius:30px;
+    
+    font-weight: bold;
+    text-decoration: none;
+    
+}
+.google1{
+    display: inline-block;
+    width: 20px;
+    position: absolute;
+    top: 139px;
+    left: 550px;
+    
+    
+    
+    
+}
+.google2{
+    display: block;
+    padding:11px ;
+    text-decoration: none;
+    
+    
+}
+.apple{
+    align-content: space-around;
+    
+    
+    width: 270px;
+    align-self: center;
+    border: 2px solid lightgray;
+    
+    border-radius:30px;
+    
+    font-weight: bold;
+    text-decoration: none;
+}
+.apple1{
+    display: inline-block;
+    width: 30px;
+    position: absolute;
+    top: 195px;
+    left: 545px;
+}
+.apple2{
+    display: block;
+    padding:11px ;
+    text-decoration: none;
+}
+input{
+    padding: 20px;
+    border: 2px solid lightgray;
+    border-radius: 10px;
+    width: 250px;
+    
+   
+}
+.next{
+    border: 2px solid black;
+    border-radius: 30px;
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    width: 270px;
+    align-self: center;
+    padding: 10px;
+    justify-content: center;
+    text-decoration: none;
+}
+.forgotpass{
+    border:2px solid lightgray;
+    border-radius: 30px;
+    background-color: white;
+    color: black;
+    display:flex;
+    flex-wrap: wrap;
+    align-self: center;
+    width: 270px;
+    justify-content: center;
+    padding:10px;
+    text-decoration: none;
+    
+}
+.acount{
+    color: grey;
+    opacity: 60;
+    font-weight: bold;
+}
+.signup{
+    font-weight: bold;
+    font-size: 17px;
+}
+.or{
+    font-weight: bolder;
+}
